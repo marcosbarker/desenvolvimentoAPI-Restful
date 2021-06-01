@@ -27,7 +27,7 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 * [Exercícios (*projetos API*)](workspaceSpringToolAPI/)
-* [Códigos Para DB + Configs (*projetos API*)](dataBaseEconfigs/)
+* [DB + Configs (*projetos API*)](dataBaseEconfigs/)
 * [Generate Spring.io](generateSpringIo/)
 * [Material de Aula](materialDeAula/)</br>
 <!--
