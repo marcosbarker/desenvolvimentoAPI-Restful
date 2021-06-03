@@ -1,4 +1,4 @@
-package com.residencia.biblioteca;
+package com.residencia.biblioteca.biblioteca;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
