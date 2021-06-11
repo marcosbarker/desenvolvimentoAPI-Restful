@@ -105,7 +105,5 @@ public class EmailService {
 			helper.setText(sBuilder.toString(), true);
 
 			emailSender.send(message);
-
 	}
-
 }

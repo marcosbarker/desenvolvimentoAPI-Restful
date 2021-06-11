@@ -37,5 +37,6 @@ public class OrderlinesServices {
 	
 	public void delete(Integer id) {
 		orderlinesRepository.deleteById(id);
+		
 	}
 }
