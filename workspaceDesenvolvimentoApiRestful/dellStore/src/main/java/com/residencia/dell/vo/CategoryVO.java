@@ -4,6 +4,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
 public class CategoryVO {
+
 	
 	  private Long categoryId;
 	  
@@ -23,5 +24,9 @@ public class CategoryVO {
 	public void setCategoryName(String categoryName) {
 		this.categoryName = categoryName;
 	}
-  
+	  
+	  
+
+
+	  
 }

@@ -31,6 +31,12 @@ public class OrdersController {
 	@Autowired
 	public OrdersServices ordersService;
 
+//	@GetMapping("/{id}")
+//	public ResponseEntity<Orders> findById(@PathVariable Integer id) {
+//		HttpHeaders headers = new HttpHeaders();
+//		return new ResponseEntity<>(ordersService.findById(id), headers, HttpStatus.OK);
+//	}
+	
 	@GetMapping("/{id}")
 	public ResponseEntity<OrdersVO> findById(@PathVariable Integer id){
 		HttpHeaders headers = new HttpHeaders();
@@ -70,6 +76,8 @@ public class OrdersController {
 		return new
 				ResponseEntity<>(ordersService.emitirNF(id), headers, HttpStatus.OK);
 	}
+
+
 
 	@PutMapping("/{id}")
 	public ResponseEntity<Orders> update(@PathVariable Integer id, @RequestBody Orders orders) {
