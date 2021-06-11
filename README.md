@@ -28,8 +28,8 @@
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 * [Exercícios (*projetos API*)](workspaceDesenvolvimentoApiRestful/)
 * [Atividade I: Criação do Projeto API DVDRental](https://github.com/marcosbarker/dvdRental-API-Restful)
-* [Atividade II: Projeto API Dell Store](dellStore/)
-* [Atividade III: @Validations e Tratamento de Exceções](validationTratamentoExcecoes/)
+* [Atividade II: Projeto API Dell Store](workspaceDesenvolvimentoApiRestful/dellStore/)
+* [Atividade III: @Validations e Tratamento de Exceções](workspaceDesenvolvimentoApiRestful/validationTratamentoExcecoes/)
 * [⚡Atividade IV: Trabalho de Conclusão da Disciplina](https://github.com/marcosbarker/ecommerce-API-Restful)
 * [DB + Configs (*projetos API*)](dataBaseEconfigs/)
 * [Generate Spring.io](generateSpringIo/)
