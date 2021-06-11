@@ -17,7 +17,6 @@ public class Orderlines {
 	@Column(name = "orderlineid")
 	private Integer orderLineId;
 
-	// fazer anotações de chave
 	@ManyToOne
 	@JoinColumn(name = "orderid", referencedColumnName = "orderid")
 	private Orders orders;
