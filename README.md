@@ -31,8 +31,8 @@
 * [Atividade II: Projeto API Dell Store](workspaceDesenvolvimentoApiRestful/dellStore/)
 * [Atividade III: @Validations e Tratamento de Exceções](workspaceDesenvolvimentoApiRestful/validationTratamentoExcecoes/)
 * [⚡Atividade IV: Trabalho de Conclusão da Disciplina](https://github.com/marcosbarker/ecommerce-API-Restful)
-* [DB + Configs (*projetos API*)](dataBaseEconfigs/)
-* [Generate Spring.io](generateSpringIo/)
+* [Data Base + Configs + exemplos de métodos](dataBaseEconfigs/)
+* [Generate Spring.io dos Projetos](generateSpringIo/)
 * [Material de Aula](materialDeAula/)</br>
 
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
