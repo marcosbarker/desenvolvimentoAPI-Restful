@@ -27,14 +27,14 @@
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 * [Exercícios (*projetos API*)](workspaceDesenvolvimentoApiRestful/)
+* [Atividade I: Criação do Projeto API DVDRental](https://github.com/marcosbarker/dvdRental-API-Restful)
+* [Atividade II: Projeto API Dell Store](dellStore/)
+* [Atividade III: @Validations e Tratamento de Exceções](validationTratamentoExcecoes/)
+* [⚡Atividade IV: Trabalho de Conclusão da Disciplina](https://github.com/marcosbarker/ecommerce-API-Restful)
 * [DB + Configs (*projetos API*)](dataBaseEconfigs/)
 * [Generate Spring.io](generateSpringIo/)
 * [Material de Aula](materialDeAula/)</br>
-<!--
-### ⚡Projeto Final 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**E-commerce Marketplace**](projetoFinal/)
-</br>
--->
+
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 - [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
 - [**Java**](https://www.oracle.com/java/technologies/)    [(*Documentação*)](https://docs.oracle.com/en/java/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Glossary/Java)
