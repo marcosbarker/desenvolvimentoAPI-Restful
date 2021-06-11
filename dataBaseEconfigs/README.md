@@ -1,4 +1,4 @@
-## Conteúdo disponibilizado em aula pelo professor Alexandre de Oliveira Paixão (@aopaixao)
+## Conteúdo disponibilizado em aula pelo professor Alexandre de Oliveira Paixão [@aopaixao](https://github.com/aopaixao)
 
 ## [Repositório original](https://github.com/aopaixao/residencia_api_restful/tree/main/biblioteca)
 
