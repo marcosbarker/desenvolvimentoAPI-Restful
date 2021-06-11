@@ -1,4 +1,4 @@
-package com.residencia.dell.controllers;
+package com.residencia.validation.controllers;
 
 
 import javax.validation.Valid;
@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.residencia.dell.entities.Category;
-import com.residencia.dell.services.CategoryService;
-import com.residencia.dell.vo.CategoryVO;
+import com.residencia.validation.entities.Category;
+import com.residencia.validation.services.CategoryService;
+import com.residencia.validation.vo.CategoryVO;
 
 
 

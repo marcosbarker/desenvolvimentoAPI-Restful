@@ -1,4 +1,4 @@
-package com.residencia.dell.entities;
+package com.residencia.validation.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

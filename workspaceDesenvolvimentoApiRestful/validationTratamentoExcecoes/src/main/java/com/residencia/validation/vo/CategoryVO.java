@@ -1,4 +1,4 @@
-package com.residencia.dell.vo;
+package com.residencia.validation.vo;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;

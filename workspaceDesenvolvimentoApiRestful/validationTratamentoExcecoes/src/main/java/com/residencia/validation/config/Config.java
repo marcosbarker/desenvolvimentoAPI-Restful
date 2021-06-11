@@ -1,4 +1,4 @@
-package com.residencia.dell.config;
+package com.residencia.validation.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

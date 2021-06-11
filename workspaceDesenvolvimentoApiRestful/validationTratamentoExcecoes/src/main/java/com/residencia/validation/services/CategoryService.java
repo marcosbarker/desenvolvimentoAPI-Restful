@@ -1,13 +1,13 @@
-package com.residencia.dell.services;
+package com.residencia.validation.services;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.residencia.dell.entities.Category;
-import com.residencia.dell.repositories.CategoryRepository;
-import com.residencia.dell.vo.CategoryVO;
+import com.residencia.validation.entities.Category;
+import com.residencia.validation.repositories.CategoryRepository;
+import com.residencia.validation.vo.CategoryVO;
 
 @Service
 public class CategoryService {

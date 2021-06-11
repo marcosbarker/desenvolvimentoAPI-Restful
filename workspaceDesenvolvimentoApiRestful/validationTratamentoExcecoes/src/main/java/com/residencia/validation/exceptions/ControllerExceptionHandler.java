@@ -1,4 +1,4 @@
-package com.residencia.dell.exceptions;
+package com.residencia.validation.exceptions;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

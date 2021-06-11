@@ -1,4 +1,4 @@
-package com.residencia.dell;
+package com.residencia.validation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
