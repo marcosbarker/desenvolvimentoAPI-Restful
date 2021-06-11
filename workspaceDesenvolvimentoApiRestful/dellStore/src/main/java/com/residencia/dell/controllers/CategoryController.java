@@ -1,6 +1,5 @@
 package com.residencia.dell.controllers;
 
-
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,8 +16,6 @@ import com.residencia.dell.entities.Category;
 import com.residencia.dell.services.CategoryService;
 import com.residencia.dell.vo.CategoryVO;
 
-
-
 @RestController
 @RequestMapping("/category")
 public class CategoryController {
@@ -32,13 +29,6 @@ public class CategoryController {
         return categoryService.findById(id);
     }
 
-//	@PostMapping
-//	@ResponseStatus(HttpStatus.CREATED)
-//	public CategoryVO save(@Valid @RequestBody CategoryVO categoryVO) {
-//        CategoryVO newCategoryVO  = categoryService.save(categoryVO);
-//		return newCategoryVO;
-//	}
-	
 	@PostMapping
 	@ResponseStatus(HttpStatus.CREATED)
 	public Category save(@Valid @RequestBody CategoryVO categoryVO) {
