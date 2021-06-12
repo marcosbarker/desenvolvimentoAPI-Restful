@@ -23,7 +23,7 @@
 ✔️ Criar recursos para envio de e mails.</br>
 
 *Totalizando 84h*
-</br>
+</br></br>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 * [Exercícios (*projetos API*)](workspaceDesenvolvimentoApiRestful/)
@@ -34,7 +34,7 @@
 * [Data Base + Configs + exemplos de métodos](dataBaseEconfigs/)
 * [Generate Spring.io dos Projetos](generateSpringIo/)
 * [Material de Aula](materialDeAula/)</br>
-</br></br>
+</br>
 
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 - [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
