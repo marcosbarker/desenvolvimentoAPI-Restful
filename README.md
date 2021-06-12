@@ -23,7 +23,7 @@
 ✔️ Criar recursos para envio de e mails.</br>
 
 *Totalizando 84h*
-</br></br>
+</br>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
 * [Exercícios (*projetos API*)](workspaceDesenvolvimentoApiRestful/)
